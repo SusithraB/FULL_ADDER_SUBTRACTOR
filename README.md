@@ -1,8 +1,10 @@
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
+```
 Developed by: SUSITHRA.B
 RegisterNumber: 212223220113
+```
 
 **AIM:**
 
