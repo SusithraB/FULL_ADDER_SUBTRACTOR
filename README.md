@@ -41,8 +41,10 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-![image](https://github.com/SusithraB/FULL_ADDER_SUBTRACTOR/assets/146347839/14ec7449-eac0-4766-9261-96dab2f540d0)
-![image](https://github.com/SusithraB/FULL_ADDER_SUBTRACTOR/assets/146347839/9ccd8427-a1af-4f8a-b99a-c6a07f74891c)
+FULL ADDER
+![image](https://github.com/SusithraB/FULL_ADDER_SUBTRACTOR/assets/146347839/b3ad9c73-cc7d-46b7-8bea-bc98fbe29243)
+FULL SUBTRACTER
+![image](https://github.com/SusithraB/FULL_ADDER_SUBTRACTOR/assets/146347839/8c585f57-d288-4e6a-aeb4-de818b5cb661)
 
 **Procedure**
 STEP 1: Use module project name(input,output) to start the Verilog programmming.
